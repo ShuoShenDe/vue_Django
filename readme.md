@@ -85,5 +85,5 @@ STATICFILES_DIRS = [
 ]
 ```
 
-## Step 3: Run Django Server
+## Step 4: Run Django Server
 You can see the Vue pages in http://127.0.0.1:8000/
